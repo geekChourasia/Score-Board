@@ -1,0 +1,19 @@
+.content{
+    text-align: center;
+    margin-right: 30%;
+    margin-left: 35%;
+    margin-top: 25%;
+    color:whitesmoke;
+}
+
+body{
+    background-image: url('football.jpeg');
+    background-size: cover;
+    opacity: 70%;
+    background-attachment: fixed;
+}
+
+.green{
+    color: green;
+}
+
